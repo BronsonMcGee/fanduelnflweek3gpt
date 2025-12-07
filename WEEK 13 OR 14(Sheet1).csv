@@ -1,0 +1,111 @@
+Name,Team,Opp,Pos,Proj,Salary
+Josh Allen,BUF,CIN,QB,23.80,9200
+Jayden Daniels,WAS,MIN,QB,19.00,8500
+Lamar Jackson,BAL,PIT,QB,18.85,8400
+Joe Burrow,CIN,BUF,QB,17.67,8100
+Matthew Stafford,LAR,ARI,QB,20.34,8000
+Baker Mayfield,TB,NO,QB,17.31,7900
+Bo Nix,DEN,LV,QB,17.88,7700
+Caleb Williams,CHI,GB,QB,15.05,7600
+Daniel Jones,IND,JAX,QB,15.81,7500
+Jordan Love,GB,CHI,QB,17.12,7400
+Sam Darnold,SEA,ATL,QB,15.31,7300
+Jacoby Brissett,ARI,LAR,QB,16.85,7200
+Trevor Lawrence,JAX,IND,QB,16.38,7100
+Tua Tagovailoa,MIA,NYJ,QB,14.15,7000
+Aaron Rodgers,PIT,BAL,QB,12.77,6900
+Tyrod Taylor,NYJ,MIA,QB,14.94,6700
+Tyler Shough,NO,TB,QB,14.22,6600
+Kirk Cousins,ATL,SEA,QB,11.98,6500
+Geno Smith,LV,DEN,QB,12.82,6500
+J.J. McCarthy,MIN,WAS,QB,13.99,6400
+Cam Ward,TEN,CLE,QB,10.64,6400
+Shedeur Sanders,CLE,TEN,QB,11.15,6400
+Jonathan Taylor,IND,JAX,RB,20.9,9700
+De'Von Achane,MIA,JAX,RB,21.2,9200
+James Cook III,BUF,CIN,RB,20.3,9300
+Bijan Robinson,ATL,SEA,RB,18.4,9000
+Josh Jacobs,GB,CHI,RB,17.2,8600
+Breece Hall,NYJ,MIA,RB,15.9,7500
+Derrick Henry,BAL,PIT,RB,16.5,8700
+Bucky Irving,TB,NO,RB,16.6,8000
+Quinshon Judkins,CLE,TEN,RB,16.9,7900
+Ashton Jeanty,LV,DEN,RB,15.0,6800
+Kyren Williams,LAR,ARI,RB,14.5,8200
+Kenneth Walker III,SEA,ATL,RB,13.6,6600
+RJ Harvey,DEN,LV,RB,13.9,6500
+Travis Etienne Jr.,JAX,IND,RB,11.5,7000
+Chase Brown,CIN,BUF,RB,13.8,7300
+Aaron Jones Sr.,MIN,WAS,RB,11.7,6000
+Puka Nacua,LAR,ARI,WR,19.9,9300
+Jaxon Smith-Njigba,SEA,ATL,WR,19.2,9800
+Ja'Marr Chase,CIN,BUF,WR,17.7,9100
+Davante Adams,LAR,ARI,WR,13.7,8600
+Michael Wilson,ARI,LAR,WR,13.7,5700
+Chris Olave ,NO,TB,WR,11.6,7600
+Justin Jefferson,MIN,WAS,WR,13.1,8100
+Jaylen Waddle,MIA,NYJ,WR,12.6,6700
+Emeka Egbuka,TB,NO,WR,12.8,7300
+Tee Higgins,CIN,BUF,WR,10.7,7100
+Zay Flowers,BAL,PIT,WR,11.9,6900
+Jakobi Meyers,JAX,IND,WR,9.6,6100
+Michael Pittman Jr.,IND,JAX,WR,9.6,5800
+Terry McLaurin,WAS,MIN,WR,10.7,6600
+Christian Watson,GB,CHI,WR,10.0,6200
+DK Metcalf,PIT,BAL,WR,9.9,7200
+Courtland Sutton,DEN,LV,WR,9.6,6300
+Adonai Mitchell,NYJ,MIA,WR,9.7,6000
+Khalil Shakir,BUF,CIN,WR,9.9,5900
+Alec Pierce,IND,JAX,WR,9.8,6000
+Deebo Samuel Sr.,WAS,MIN,WR,9.7,7400
+Chris Godwin Jr.,TB,NO,WR,8.8,6100
+Brian Thomas Jr.,JAX,IND,WR,8.9,6200
+DJ Moore,CHI,GB,WR,8.1,5600
+Troy Franklin,DEN,LV,WR,8.5,6400
+Romeo Doubs,GB,CHI,WR,8.4,5800
+Darnell Mooney,ATL,SEA,WR,8.7,5900
+Jordan Addison,MIN,WAS,WR,9.1,5900
+John Metchie III,NYJ,MIA,WR,8.7,5700
+Luther Burden III,CHI,GB,WR,8.0,5100
+Tre Tucker,LV,DEN,WR,8.2,5500
+Trey McBride,ARI,LAR,TE,14.8,8600
+Brock Bowers,LV,DEN,TE,11.4,7300
+Tyler Warren,IND,JAX,TE,11.0,6300
+Kyle Pitts Sr.,ATL,SEA,TE,10.1,5300
+Brenton Strange,JAX,IND,TE,8.2,5400
+Zach Ertz,WAS,MIN,TE,7.6,5200
+Juwan Johnson,NO,TB,TE,7.6,5500
+Mark Andrews,BAL,PIT,TE,7.5,5400
+Harold Fannin Jr.,CLE,TEN,TE,7.0,5300
+Darren Waller,MIA,NYJ,TE,6.8,5100
+Dalton Kincaid ,BUF,CIN,TE,6.8,5800
+Colby Parkinson,LAR,ARI,TE,6.7,5000
+Colston Loveland,CHI,GB,TE,6.6,5200
+AJ Barner,SEA,ATL,TE,6.5,5300
+Mason Taylor,NYJ,MIA,TE,5.9,4800
+Cade Otton,TB,NO,TE,5.9,5100
+Evan Engram,DEN,LV,TE,5.8,5000
+Isaiah Likely,BAL,PIT,TE,5.3,5000
+T.J. Hockenson,MIN,WAS,TE,5.2,5100
+Cleveland Browns,CLE,TEN,DST,9.6,4900
+Denver Broncos,DEN,LV,DST,9.3,5000
+Tampa Bay Buccaneers,TB,NO,DST,8.7,4600
+Los Angeles Rams,LAR,ARI,DST,8.0,4700
+Washington Commanders,WAS,MIN,DST,7.6,4400
+Baltimore Ravens,BAL,PIT,DST,7.3,4500
+Green Bay Packers,GB,CHI,DST,7.3,4100
+Seattle Seahawks,SEA,ATL,DST,7.3,4800
+Tennessee Titans,TEN,CLE,DST,7.2,3400
+Miami Dolphins,MIA,NYJ,DST,7.1,3800
+Buffalo Bills,BUF,CIN,DST,6.4,4300
+Indianapolis Colts,IND,JAX,DST,6.2,4200
+Minnesota Vikings,MIN,WAS,DST,6.1,3300
+New York Jets,NYJ,MIA,DST,6.0,3700
+Jacksonville Jaguars,JAX,IND,DST,5.9,4000
+Pittsburgh Steelers,PIT,BAL,DST,5.9,3600
+New Orleans Saints,NO,TB,DST,5.3,3000
+Las Vegas Raiders,LV,DEN,DST,4.9,3100
+Atlanta Falcons,ATL,SEA,DST,4.9,3500
+Chicago Bears,CHI,GB,DST,4.2,3900
+Cincinnati Bengals,CIN,BUF,DST,3.8,3000
+Arizona Cardinals,ARI,LAR,DST,3.8,3200
